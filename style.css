@@ -1,0 +1,9 @@
+h1, h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+}
+form, table{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+}
+table{
+    border-collapse: collapse;
+}
